@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>대성콕스 - 브랜드 사진 & 마케팅</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #f8f5f0;
+      font-family: 'Pretendard', sans-serif;
+      color: #333;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      flex-direction: column;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.1em;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>대성콕스</h1>
+  <p>브랜드 사진 & 마케팅 패키지</p>
+  <p>Coming Soon</p>
+</body>
+</html>
